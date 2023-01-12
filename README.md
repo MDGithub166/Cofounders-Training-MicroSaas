@@ -8,8 +8,8 @@
 
 - [ ] Funil de vendas/construção de micro-saas do nicho/micro-nicho validado Observações:
 
-- A) mentoria/consultoria no primeiro funil
-- B) funil aprovado na mnetoria sera archtype dos projetos futuros
+- Mentoria/consultoria no primeiro funil
+- Funil aprovado na mnetoria sera archtype dos projetos futuros
 
 - [ ] Escolha/contratação na mentoria/consultoria de funil focado em SaaS
 
