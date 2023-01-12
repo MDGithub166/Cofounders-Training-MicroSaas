@@ -13,7 +13,7 @@
 
 - [ ] Escolha/contratação na mentoria/consultoria de funil focado em SaaS
 
-========
+----
 
 **Tarefas Jones:**
 
@@ -32,8 +32,16 @@
  - Modular  
  - Get_It 
 
-- [ ] Gestão de Estado 
- - MobX 
+- [ ] Gestão de Estado
 
-- [ ] Responsive e Adaptive
+----
+
+**Tarefas Paulo:**
+ - Trabalhar com Jones: Flutter
+ - Trabalhar com Fabio: Nichos + Funis
+ 
+ - [ ] Palestras dos livros guia:
+  - 07 days Startup
+  - Startup Never Fail Again
+  - Start Small, Stays Small
 
