@@ -1,4 +1,4 @@
-<h2 align="center">Projeto de Capacitacao - Micro-SaaS</h2>
+<h2 align="center">Projeto de Capacitacao dos Cofounders - Micro-SaaS</h2>
 
 **Tarefas - Fabio:**
 
