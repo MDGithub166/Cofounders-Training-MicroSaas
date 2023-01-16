@@ -1,4 +1,4 @@
-<h2 align="center">Project - Micro-SaaS</h2>
+<h2 align="center">Project Micro-SaaS</h2>
 
 **Tarefas - Fabio:**
 
@@ -44,4 +44,10 @@
   - 07 days Startup
   - Startup Never Fail Again
   - Start Small, Stays Small
+  
+  ----
+  
+| Videos de Analises de Apps | Source | Data |
+| ------ | ------ | ------ |
+| Análise de um aplicativo de currículos que fatura R$75 mil por mês | Renato Asse - Sem Codar | 16 Jan 2023 |
 
