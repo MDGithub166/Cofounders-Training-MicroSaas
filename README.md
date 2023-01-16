@@ -1,4 +1,4 @@
-<h2 align="center">Project Micro-SaaS</h2>
+<h2 align="center">Project de Capacitacao - Micro-SaaS</h2>
 
 **Tarefas - Fabio:**
 
