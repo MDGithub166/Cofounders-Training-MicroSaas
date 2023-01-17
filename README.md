@@ -1,6 +1,6 @@
 <h2 align="center">Projeto de Capacitacao dos Co-founders - Micro-SaaS</h2>
 
-**Tarefas - Fabio:**
+:heavy_check_mark:**Tarefas - Fabio:**
 
 - [ ] Metodo de prosprecção de nichos/micro-nichos
 
@@ -15,7 +15,7 @@
 
 ----
 
-**Tarefas - Jones:**
+:heavy_check_mark:**Tarefas - Jones:**
 
 - [ ] View for Flutter 
  - FlutterViz ou Flutterflow 
@@ -36,7 +36,7 @@
 
 ----
 
-**Tarefas - Paulo:**
+:heavy_check_mark:**Tarefas - Paulo:**
  - Trabalhar com Jones: Flutter
  - Trabalhar com Fabio: Nichos + Funis
  
