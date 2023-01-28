@@ -13,12 +13,22 @@
 
 - [ ] Escolha/contratação na mentoria/consultoria de funil focado em SaaS
 
+- [ ] Palestras dos livros guia:
+  - 07 Days Startup
+  - Startup Never Fail Again
+  - Start Small, Stays Small
+  - Getting Real
+
 ----
 
 :heavy_check_mark:**Tarefas - Jones:**
 
 - [ ] View for Flutter 
- - FlutterViz ou Flutterflow 
+ - FlutterViz x
+ - Flutterflow x
+ - Figma
+
+- [ ] Widgets de Layouts
 
 - [ ] Padrão MVVM 
 
@@ -26,26 +36,22 @@
 
 - [ ] Gestão de rotas 
  - Modular 
- - Go_router 
+ - Go_router x
 
 - [ ] Gestão de dependencias 
  - Modular  
- - Get_It 
+ - Get_It x  
 
 - [ ] Gestão de Estado
+ - MobX
 
 ----
 
 :heavy_check_mark:**Tarefas - Paulo:**
  - Trabalhar com Jones: Flutter
  - Trabalhar com Fabio: Nichos + Funis
- 
- - [ ] Palestras dos livros guia:
-  - 07 days Startup
-  - Startup Never Fail Again
-  - Start Small, Stays Small
   
-  ----
+----
   
 | Videos de Analises de Apps | Source | Data |
 | ------ | ------ | ------ |
