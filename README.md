@@ -7,9 +7,8 @@
 - [ ] Metodo de validação de nicho/micro-nichos prospectados
 
 - [ ] Funil de vendas/construção de micro-saas do nicho/micro-nicho validado Observações:
-
-- Mentoria/consultoria no primeiro funil
-- Funil aprovado na mnetoria sera archtype dos projetos futuros
+  - Mentoria/consultoria no primeiro funil
+  - Funil aprovado na mentoria sera archtype dos projetos futuros
 
 - [ ] Escolha/contratação na mentoria/consultoria de funil focado em SaaS
 
@@ -24,9 +23,9 @@
 :heavy_check_mark:**Tarefas - Jones:**
 
 - [ ] View for Flutter 
- - FlutterViz x
- - Flutterflow x
- - Figma
+  - FlutterViz x
+  - Flutterflow x
+  - Figma
 
 - [ ] Widgets de Layouts
 
@@ -35,15 +34,15 @@
 - [ ] Componetization 
 
 - [ ] Gestão de rotas 
- - Modular 
- - Go_router x
+  - Modular 
+  - Go_router x
 
 - [ ] Gestão de dependencias 
- - Modular  
- - Get_It x  
+  - Modular  
+  - Get_It x  
 
 - [ ] Gestão de Estado
- - MobX
+  - MobX
 
 ----
 
@@ -56,4 +55,5 @@
 | Videos de Analises de Apps | Source | Data |
 | ------ | ------ | ------ |
 | Análise de um aplicativo de currículos que fatura R$75 mil por mês | Renato Asse - Sem Codar | 16 Jan 2023 |
+| Análise de um sistema de gestão para Condomínios que fatura R$4mm/ano | Renato Asse - Sem Codar | 17 Fev 2023 |
 
