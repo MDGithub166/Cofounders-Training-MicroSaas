@@ -34,12 +34,10 @@
 - [ ] Componetization 
 
 - [ ] Gestão de rotas 
-  - Modular 
-  - Go_router x
+  - Go_router
 
 - [ ] Gestão de dependencias 
-  - Modular  
-  - Get_It x  
+  - Get_It 
 
 - [ ] Gestão de Estado
   - MobX
@@ -47,8 +45,8 @@
 ----
 
 :heavy_check_mark:**Tarefas - Paulo:**
- - Trabalhar com Jones: Flutter
- - Trabalhar com Fabio: Nichos + Funis
+ - Mentoria com Jones: Flutter
+ - Mentoria com Fabio: Marketing Digital 
   
 ----
   
