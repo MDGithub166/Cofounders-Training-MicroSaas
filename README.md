@@ -53,5 +53,8 @@
 | Videos de Analises de Apps | Source | Data |
 | ------ | ------ | ------ |
 | Análise de um aplicativo de currículos que fatura R$75 mil por mês | Renato Asse - Sem Codar | 16 Jan 2023 |
+| Construindo um Micro-SaaS calmo | Bruno Okamoto | 16 Jan 2023 |
 | Análise de um sistema de gestão para Condomínios que fatura R$4mm/ano | Renato Asse - Sem Codar | 17 Fev 2023 |
+| Micro-SaaS B2C vs B2B - Prós e contras | Bruno Okamoto | 17 Fev 2023 |
+| Maior Tapa que Steve Jobs Já Deu Num Programador (Análise Detalhada) | Filipe Deschamps | 17 Fev 2023 |
 
