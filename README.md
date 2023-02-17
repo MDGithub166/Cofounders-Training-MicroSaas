@@ -4,11 +4,11 @@
 
 - [ ] Metodo de prosprecção de nichos/micro-nichos
 
-- [ ] Metodo de validação de nicho/micro-nichos prospectados
+- [ ] Metodo de validação de nicho/micro-nichos
 
 - [ ] Funil de vendas/construção de micro-saas do nicho/micro-nicho validado Observações:
   - Mentoria/consultoria no primeiro funil
-  - Funil aprovado na mentoria sera archtype dos projetos futuros
+  - Funil aprovado, encontrar mentoria sera archtype dos projetos futuros
 
 - [ ] Escolha/contratação na mentoria/consultoria de funil focado em SaaS
 
@@ -23,9 +23,9 @@
 :heavy_check_mark:**Tarefas - Jones:**
 
 - [ ] View for Flutter 
-  - FlutterViz x
-  - Flutterflow x
   - Figma
+  - ~FlutterViz~
+  - ~Flutterflow~
 
 - [ ] Widgets de Layouts
 
