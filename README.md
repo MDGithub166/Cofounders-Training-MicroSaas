@@ -14,12 +14,11 @@
 
 - [ ] Palestras dos livros guia:
 
-| Livros | Autores |
-| ------ | ------ |
-| 07 Days Startup | Dan Norris |
-| Startup Never Fail Again | Alldin Happy |
-| Start Small, Stays Small | Rob Walling |
-| Getting Real | Basecamp |
+| Livros | Autores | Summary |
+| ------ | ------ | ------ |
+| 07 Days Startup | Dan Norris | [Summary1](https://mrgavinbell.com/7-day-startup/), [Summary2](https://www.samuelthomasdavies.com/book-summaries/business/the-7-day-startup/) |
+| Startup Never Fail Again | Alladin Happy | |
+| Start Small, Stays Small | Rob Walling | |
 
 ----
 
