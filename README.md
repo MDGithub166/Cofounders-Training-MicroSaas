@@ -13,10 +13,13 @@
 - [ ] Escolha/contratação na mentoria/consultoria de funil focado em SaaS
 
 - [ ] Palestras dos livros guia:
-  - 07 Days Startup
-  - Startup Never Fail Again
-  - Start Small, Stays Small
-  - Getting Real
+
+| Livros | Autores |
+| ------ | ------ |
+| 07 Days Startup | Dan Norris |
+| Startup Never Fail Again | Alldin Happy |
+| Start Small, Stays Small | Rob Walling |
+| Getting Real | Basecamp |
 
 ----
 
@@ -35,9 +38,12 @@
 
 - [ ] Gestão de rotas 
   - Go_router
+  - ~~Modular~~
+  
 
 - [ ] Gestão de dependencias 
-  - Get_It 
+  - Get_It
+  - ~~Modular~~
 
 - [ ] Gestão de Estado
   - MobX
