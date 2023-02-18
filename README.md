@@ -57,5 +57,5 @@
 | Análise de um sistema de gestão para Condomínios que fatura R$4mm/ano | Renato Asse - Sem Codar | 17 Fev 2023 |
 | Micro-SaaS B2C vs B2B - Prós e contras | Bruno Okamoto | 17 Fev 2023 |
 | Maior Tapa que Steve Jobs Já Deu Num Programador (Análise Detalhada) | Filipe Deschamps | 17 Fev 2023 |
-| De -R$19 MIL a + DE 2 BILHÕES com MARKETING DIGITAL | MÁRCIO MOTTA (MONETIZZE) podcast #99| Maik Santos | 17 Mar 2023 |
+| De -R$19K a + DE 2BI com MARKETING DIGITAL-MÁRCIO MOTTA(MONETIZZE)| Maik Santos | 17 Mar 2023 |
 
