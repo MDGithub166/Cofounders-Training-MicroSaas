@@ -1,6 +1,6 @@
 <h2 align="center">Projeto de Capacitacao dos Co-founders - Micro-SaaS</h2>
 
-:heavy_check_mark:** Fabio: Marketing Digital**
+:heavy_check_mark: **Fabio: Marketing Digital**
 
 - [ ] Metodo de prosprecção de nichos/micro-nichos
 
@@ -20,7 +20,7 @@
 
 ----
 
-:heavy_check_mark:** Jones: Flutter**
+:heavy_check_mark: **Jones: Flutter**
 
 - [ ] View for Flutter 
   - Figma
@@ -44,7 +44,7 @@
 
 ----
 
-:heavy_check_mark:** Paulo - Mentoria:**
+:heavy_check_mark: **Paulo - Mentoria:**
  - Jones: Flutter
  - Fabio: Marketing Digital 
   
@@ -57,4 +57,5 @@
 | Análise de um sistema de gestão para Condomínios que fatura R$4mm/ano | Renato Asse - Sem Codar | 17 Fev 2023 |
 | Micro-SaaS B2C vs B2B - Prós e contras | Bruno Okamoto | 17 Fev 2023 |
 | Maior Tapa que Steve Jobs Já Deu Num Programador (Análise Detalhada) | Filipe Deschamps | 17 Fev 2023 |
+| De -R$19 MIL a + DE 2 BILHÕES com MARKETING DIGITAL | MÁRCIO MOTTA (MONETIZZE) podcast #99| Maik Santos | 17 Mar 2023 |
 
