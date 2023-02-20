@@ -62,8 +62,11 @@
 1. Mentoria Jones: Flutter
 2. Mentoria Fabio: Marketing Digital 
 3. Gerencia de projeto
-4. Selecao / indicacao da Bibliografia tecnica
-5. Consultoria de bussiness model
+4. Selecao de conteudo tecnico:
+  - Bibliografia
+  - Videos
+
+6. Consultoria de bussiness model
   
 ----
 <div align="center">
