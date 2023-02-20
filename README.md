@@ -19,6 +19,8 @@
 | 07 Days Startup | Dan Norris | [Summary 01](https://mrgavinbell.com/7-day-startup/), [Summary 02](https://www.samuelthomasdavies.com/book-summaries/business/the-7-day-startup/) |
 | Startup Never Fail Again | Alladin Happy | [Sumario 01](https://startupsventurecapital.com/startup-guide-86d026e68264) |
 | Start Small, Stays Small | Rob Walling | [Sumario 01](https://filipesilva.me/notes/start-small-stay-small/) , [Sumario 02](https://github.com/elliotlarson/dev-notes/blob/master/books/start-small-stay-small-a-developers-guide-to-launching-a-startup.md) , [Sumario 03](https://sive.rs/book/StartSmallStaySmall) , [Sumario 04](https://jakobgreenfeld.com/start-walling) , [Sumario 05]() |
+| Lost And Founder | Rand Fishkin | [Sumario 01](https://accessorytosuccess.com/blogs/books/lost-and-founder-book-summary-by-rand-fishkin) , [Summary 02](https://waiyancan.com/summary-lost-and-founder-rand-fishkin/)|
+| Start Marketing the day at you start coding | Rob Walling | [Sumario 01]([https://robwalling.com/2010/10/14/startup-marketing-part-6-why-you-should-start-marketing-the-day-you-start-coding/) |
 
 [OBS: Como traduzir paginas WEB](https://support.google.com/chrome/answer/173424?hl=pt&co=GENIE.Platform%3DDesktop)
 
