@@ -62,7 +62,7 @@
  - Mentoria Jones: Flutter
  - Mentoria Fabio: Marketing Digital 
  - Gerencia de projeto
- - Indicacao bilbiografica
+ - Selecao / indicacao da Bibliografia tecnica
  - Consultoria de bussiness model
   
 ----
