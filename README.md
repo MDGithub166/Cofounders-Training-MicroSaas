@@ -59,11 +59,11 @@
 ----
 
 :heavy_check_mark: **Paulo:**
- - Mentoria Jones: Flutter
- - Mentoria Fabio: Marketing Digital 
- - Gerencia de projeto
- - Selecao / indicacao da Bibliografia tecnica
- - Consultoria de bussiness model
+1. Mentoria Jones: Flutter
+2. Mentoria Fabio: Marketing Digital 
+3. Gerencia de projeto
+4. Selecao / indicacao da Bibliografia tecnica
+5. Consultoria de bussiness model
   
 ----
 <div align="center">
