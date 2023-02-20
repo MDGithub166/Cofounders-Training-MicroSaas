@@ -44,6 +44,7 @@
 
 - [ ] Gestão de dependencias 
   - Get_It
+  - Flutter Auto-Injector
   - ~~Modular~~
 
 - [ ] Gestão de Estado
