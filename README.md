@@ -14,11 +14,13 @@
 
 - [ ] Palestras dos livros guia:
 
-| Livros | Autores | Summary |
+| Livros | Autores | Summario - Alternativas |
 | ------ | ------ | ------ |
-| 07 Days Startup | Dan Norris | [Summary1](https://mrgavinbell.com/7-day-startup/), [Summary2](https://www.samuelthomasdavies.com/book-summaries/business/the-7-day-startup/) |
-| Startup Never Fail Again | Alladin Happy | |
-| Start Small, Stays Small | Rob Walling | |
+| 07 Days Startup | Dan Norris | [Summary 01](https://mrgavinbell.com/7-day-startup/), [Summary 02](https://www.samuelthomasdavies.com/book-summaries/business/the-7-day-startup/) |
+| Startup Never Fail Again | Alladin Happy | [Sumario 01](https://startupsventurecapital.com/startup-guide-86d026e68264) |
+| Start Small, Stays Small | Rob Walling | [Sumario 01](https://filipesilva.me/notes/start-small-stay-small/) , [Sumario 02](https://github.com/elliotlarson/dev-notes/blob/master/books/start-small-stay-small-a-developers-guide-to-launching-a-startup.md) , [Sumario 03](https://sive.rs/book/StartSmallStaySmall) , [Sumario 04](https://jakobgreenfeld.com/start-walling) , [Sumario 05]() |
+
+[OBS: Como traduzir paginas WEB](https://support.google.com/chrome/answer/173424?hl=pt&co=GENIE.Platform%3DDesktop)
 
 ----
 
