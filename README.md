@@ -63,6 +63,7 @@
  - Mentoria Fabio: Marketing Digital 
  - Gerencia de projeto
  - Indicacao bilbiografica
+ - Consultoria de bussiness model
   
 ----
 <div align="center">
