@@ -12,7 +12,7 @@
 
 - [ ] Escolha/contratação na mentoria/consultoria de funil focado em SaaS
 
-- [ ] Palestras dos livros guia:
+- [ ] Palestras dos livros:
 
 <div align="center">
   
