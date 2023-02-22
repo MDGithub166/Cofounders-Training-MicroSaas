@@ -39,7 +39,7 @@
 
 - [ ] Widgets de Layouts
 
-- [ ] Padrão MVVM 
+- [ ] Padrão MVVM / MVC
 
 - [ ] Componetization 
 
