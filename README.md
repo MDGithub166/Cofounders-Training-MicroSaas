@@ -71,7 +71,7 @@
 ----
 <div align="center">
 
-| Videos de Analises de Apps | Source | Data |
+| Videos de Cases | Source | Data |
 | ------ | ------ | ------ |
 | Análise de um aplicativo de currículos que fatura R$75 mil por mês | Renato Asse - Sem Codar | 16 Jan 2023 |
 | Construindo um Micro-SaaS calmo | Bruno Okamoto | 27 Jan 2023 |
