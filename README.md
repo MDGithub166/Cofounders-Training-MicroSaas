@@ -37,7 +37,7 @@
   - ~FlutterViz~
   - ~Flutterflow~
 
-- [ ] Widgets de Layouts
+- [ ] Layout
 
 - [ ] Padrão MVVM / MVC
 
@@ -62,10 +62,9 @@
 1. Mentoria Jones: Flutter
 2. Mentoria Fabio: Marketing Digital 
 3. Gerencia de projeto
-4. Selecao de conteudo tecnico:
+4. Selecao/indicação de conteudo tecnico:
   - Bibliografia
   - Videos
-
 6. Consultoria de bussiness model
   
 ----
