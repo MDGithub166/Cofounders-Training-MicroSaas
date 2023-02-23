@@ -32,7 +32,7 @@
 
 :heavy_check_mark: **Jones: Flutter**
 
-- [ ] View for Flutter 
+- [ ] View Layer
   - Figma
   - ~FlutterViz~
   - ~Flutterflow~
