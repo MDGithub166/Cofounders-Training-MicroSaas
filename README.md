@@ -1,4 +1,4 @@
-<h2 align="center">Micro-SaaS: Capacitacao dos Cofounders</h2>
+<h2 align="center">Micro-SaaS: Projeto 01 - Capacitacao dos Cofounders</h2>
 
 :heavy_check_mark: **Fabio: Marketing Digital**
 
