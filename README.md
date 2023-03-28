@@ -78,12 +78,14 @@
   - Project updatings
   - Selecao de conteudos
   - Acompanhamento mercadologico
-  - Mentorias
+  - Realizacao e interacao nas Mentorias:
+    - Flutter: Pair Programming
+    - Marketing digital: Leituras completas, pesquisa e consumo do conteudo tecnico 
   - Definicao de ferramentas e tecnologias
 5. Selecao/indicação de conteudo tecnico:
   - Bibliografia
   - Videos
-6. Consultoria de bussiness model
+6. Consultoria de business model
   
 ----
 <div align="center">
