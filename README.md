@@ -14,6 +14,7 @@
 
 - [ ] Leituras completas:
   - Start Small, Stay Small - R.Willing
+  - Startup Never Fail Again - A.Happy
 
 - [ ] Apresentacoes:
 
