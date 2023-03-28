@@ -23,7 +23,7 @@
 
 <div align="center">
   
-| Livros | Autores | Sumarios + Conteudos complementares |
+| Livros | Autores | Sumarios |
 | ------ | ------ | ------ |
 | 07 Days Startup | Dan Norris | [Sumario](https://mrgavinbell.com/7-day-startup/), [Compl.1](https://www.samuelthomasdavies.com/book-summaries/business/the-7-day-startup/) |
 | Startup Never Fail Again | Alladin Happy | [Sumario](https://startupsventurecapital.com/startup-guide-86d026e68264) , [Compl.1](https://medium.com/@happyaladdin/top-10-growth-hacking-infographics-c21a55b1160f) , [Compl.2](https://medium.com/@happyaladdin/top-10-growth-hacking-mistakes-that-cost-me-5-years-of-my-life-and-then-saved-me-200k-38f3dcfcdcad) , [Compl.3](https://medium.com/startup-grind/top-10-proven-growth-hacking-ideas-for-2016-bcd3c126de63) |
