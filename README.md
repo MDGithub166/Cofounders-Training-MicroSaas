@@ -42,11 +42,12 @@
 :heavy_check_mark: **Jones: Flutter**
 
 - [ ] View Layer
-  - Figma
+  - Nowa.dev
+  - ~Figma~
   - ~FlutterViz~
   - ~Flutterflow~
 
-- [ ] Layout
+- [ ] Layout Widgets
 
 - [ ] Padrão MVVM / MVC
 
@@ -56,7 +57,6 @@
   - Go_router
   - ~~Modular~~
   
-
 - [ ] Gestão de dependencias 
   - Get_It
   - Flutter Auto-Injector
@@ -70,8 +70,17 @@
 :heavy_check_mark: **Paulo:**
 1. Mentoria Jones: Flutter
 2. Mentoria Fabio: Marketing Digital 
-3. Gerencia de projeto
-4. Selecao/indicação de conteudo tecnico:
+3. Gerencia de projeto:
+  - Definir Deadlines
+  - Presidir meetings (grupo e individuais)
+  - Definicao de Atividades
+  - Estipulacao de targets
+  - Project updatings
+  - Selecao de conteudos
+  - Acompanhamento mercadologico
+  - Mentorias
+  - Definicao de ferramentas e tecnologias
+5. Selecao/indicação de conteudo tecnico:
   - Bibliografia
   - Videos
 6. Consultoria de bussiness model
