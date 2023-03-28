@@ -12,6 +12,9 @@
 
 - [ ] Escolha/contratação na mentoria/consultoria de funil focado em SaaS
 
+- [ ] Leituras completas:
+  - Start Small, Stay Small - R.Willing
+
 - [ ] Apresentacoes:
 
 <div align="center">
