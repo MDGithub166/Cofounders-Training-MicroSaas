@@ -15,6 +15,7 @@
 - [ ] Leituras completas:
   - Start Small, Stay Small - R.Willing
   - Startup Never Fail Again - A.Happy
+  - 07 Days Startup - D. Morrys
 
 - [ ] Apresentacoes:
 
