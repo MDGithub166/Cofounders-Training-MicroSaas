@@ -15,8 +15,9 @@
 - [ ] Leituras completas:
   - Start Small, Stay Small - R.Willing
   - Startup Never Fail Again - A.Happy
-  - 07 Days Startup - D.Morrys
+  - 07 Days Startup - D.Norrys
   - Start Marketing the day at you start coding - R.Willing
+  - Your Startup Is Going To Fail...guide to...B2B - R.Green
 
 - [ ] Apresentacoes:
 
