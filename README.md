@@ -53,7 +53,9 @@
 
 - [ ] Componetization 
 
-- [ ] Padrão MVVM / MVC
+- [ ] LAyer ARchitecture:
+  - MVVM
+  - MVC
 
 - [ ] Gestão de rotas 
   - Go_router
