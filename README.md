@@ -53,7 +53,7 @@
 
 - [ ] Componetization 
 
-- [ ] LAyer ARchitecture:
+- [ ] Layer Architecture:
   - MVVM
   - MVC
 
@@ -76,6 +76,7 @@
    - Jones: Flutter (FrontEnd + Mobile)
    - Fabio: Marketing Digital 
 3. Gerencia de projeto:
+  - Atualizacao de documentacao
   - Definir Deadlines
   - Presidir meetings (grupo e individuais)
   - Definicao de Atividades
