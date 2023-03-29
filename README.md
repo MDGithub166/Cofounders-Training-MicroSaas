@@ -6,7 +6,10 @@
 
 - [ ] Metodo de validação de nicho/micro-nichos
 
-- [ ] Funil de vendas/construção de micro-saas do nicho/micro-nicho validado Observações:
+- [ ] Design Sprint
+  - Construção de produto para o micro-nicho validado
+
+- [ ] Funil de vendas para micro-saas
   - Mentoria/consultoria no primeiro funil
   - Funil aprovado, encontrar mentoria sera archtype dos projetos futuros
 
@@ -39,6 +42,7 @@
 ----
 
 :heavy_check_mark: **Jones: Flutter**
+- [ ] Layout Widgets
 
 - [ ] View Layer
   - Nowa.dev
@@ -46,11 +50,9 @@
   - ~FlutterViz~
   - ~Flutterflow~
 
-- [ ] Layout Widgets
+- [ ] Componetization 
 
 - [ ] Padrão MVVM / MVC
-
-- [ ] Componetization 
 
 - [ ] Gestão de rotas 
   - Go_router
@@ -67,8 +69,9 @@
 ----
 
 :heavy_check_mark: **Paulo:**
-1. Mentoria Jones: Flutter
-2. Mentoria Fabio: Marketing Digital 
+1. Mentorias Individualizadas
+   - Jones: Flutter (FrontEnd + Mobile)
+   - Fabio: Marketing Digital 
 3. Gerencia de projeto:
   - Definir Deadlines
   - Presidir meetings (grupo e individuais)
