@@ -42,9 +42,9 @@
 ----
 
 :heavy_check_mark: **Jones: Flutter**
-- [ ] Layout Widgets
+- [ ] View Layer - Layouts Widgets
 
-- [ ] View Layer
+- [ ] View Layer - UiBuilder
   - Nowa.dev
   - ~Figma~
   - ~FlutterViz~
