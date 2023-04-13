@@ -20,7 +20,7 @@
   - Startup Never Fail Again - A.Happy
   - 07 Days Startup - D.Norris
   - Start Marketing the day at you start coding - R.Willing
-  - Your Startup Is Going To Fail...guide to...B2B - R.Green
+  - Micro-SaaS Ebook - Tyler Tringas 
 
 - [ ] Apresentacoes:
 
