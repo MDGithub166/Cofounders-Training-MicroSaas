@@ -26,15 +26,13 @@
 
 <div align="center">
   
-| Livros | Autores | Sumarios |
-| ------ | ------ | ------ |
-| 07 Days Startup | Dan Norris | [Sumario](https://mrgavinbell.com/7-day-startup/), [Compl.1](https://www.samuelthomasdavies.com/book-summaries/business/the-7-day-startup/) |
-| Startup Never Fail Again | Alladin Happy | [Sumario](https://startupsventurecapital.com/startup-guide-86d026e68264) , [Compl.1](https://medium.com/@happyaladdin/top-10-growth-hacking-infographics-c21a55b1160f) , [Compl.2](https://medium.com/@happyaladdin/top-10-growth-hacking-mistakes-that-cost-me-5-years-of-my-life-and-then-saved-me-200k-38f3dcfcdcad) , [Compl.3](https://medium.com/startup-grind/top-10-proven-growth-hacking-ideas-for-2016-bcd3c126de63) |
-| Start Small, Stays Small | Rob Walling | [Sumario](https://filipesilva.me/notes/start-small-stay-small/) , [Compl.1](https://github.com/elliotlarson/dev-notes/blob/master/books/start-small-stay-small-a-developers-guide-to-launching-a-startup.md) , [Compl.2](https://sive.rs/book/StartSmallStaySmall) , [Compl.3](https://jakobgreenfeld.com/start-walling) |
-| Start Marketing the day at you start coding | Rob Walling | [Sumario](https://robwalling.com/2010/10/14/startup-marketing-part-6-why-you-should-start-marketing-the-day-you-start-coding/) |
-| Your Startup Is Going To Fail ... guide to ... B2B | Rob Green | [Sumario](https://www.amazon.com/Your-Startup-Going-Fail-foundation-ebook/dp/B07P7N2R5R/ref=sr_1_1?crid=XD7Q69AE6NJI&keywords=startup+fail&qid=1677345711&s=books&sprefix=startup+fai%2Cstripbooks-intl-ship%2C132&sr=1-1) |
-| T2D3: How some software startups scale, where many fail | Stijn Hendrikse | [Sumario](https://www.amazon.com/T2D3-software-startups-scale-where-ebook/dp/B09HPDDHDY/ref=cm_cr_arp_d_product_top?ie=UTF8) |
- 
+| Livros | Autores | 
+| ------ | ------ | 
+| 07 Days Startup | Dan Norris |
+| Startup Never Fail Again | Alladin Happy |
+| Start Small, Stays Small | Rob Walling |
+| Start Marketing the day at you start coding | Rob Walling |
+
 </div>
 
 [OBS: Como traduzir paginas WEB](https://support.google.com/chrome/answer/173424?hl=pt&co=GENIE.Platform%3DDesktop)
