@@ -32,6 +32,7 @@
 | Startup Never Fail Again | Alladin Happy |
 | Start Small, Stays Small | Rob Walling |
 | Start Marketing the day at you start coding | Rob Walling |
+| Micro-SaaS Ebook | Tyler Tringas |
 
 </div>
 
